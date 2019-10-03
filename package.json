@@ -2,8 +2,7 @@
   "name": "js-development-environment",
   "version": "1.0.0",
   "description": "JavaScript Development Environment",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Daniel Dusko",
   "license": "MIT",
   "dependencies": {
